@@ -1,0 +1,17 @@
+C:\Users\99477\Desktop\TaskM\TaskManagementSystem\TaskManagementSystem-DAL\bin\Debug\net8.0\TaskManagementSystem-DAL.deps.json
+C:\Users\99477\Desktop\TaskM\TaskManagementSystem\TaskManagementSystem-DAL\bin\Debug\net8.0\TaskManagementSystem-DAL.runtimeconfig.json
+C:\Users\99477\Desktop\TaskM\TaskManagementSystem\TaskManagementSystem-DAL\bin\Debug\net8.0\TaskManagementSystem-DAL.dll
+C:\Users\99477\Desktop\TaskM\TaskManagementSystem\TaskManagementSystem-DAL\bin\Debug\net8.0\TaskManagementSystem-DAL.pdb
+C:\Users\99477\Desktop\TaskM\TaskManagementSystem\TaskManagementSystem-DAL\bin\Debug\net8.0\TaskManagementSystem-Core.dll
+C:\Users\99477\Desktop\TaskM\TaskManagementSystem\TaskManagementSystem-DAL\bin\Debug\net8.0\TaskManagementSystem-Core.pdb
+C:\Users\99477\Desktop\TaskM\TaskManagementSystem\TaskManagementSystem-DAL\obj\Debug\net8.0\TaskManagementSystem-DAL.csproj.AssemblyReference.cache
+C:\Users\99477\Desktop\TaskM\TaskManagementSystem\TaskManagementSystem-DAL\obj\Debug\net8.0\TaskManagementSystem-DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\99477\Desktop\TaskM\TaskManagementSystem\TaskManagementSystem-DAL\obj\Debug\net8.0\TaskManagementSystem-DAL.AssemblyInfoInputs.cache
+C:\Users\99477\Desktop\TaskM\TaskManagementSystem\TaskManagementSystem-DAL\obj\Debug\net8.0\TaskManagementSystem-DAL.AssemblyInfo.cs
+C:\Users\99477\Desktop\TaskM\TaskManagementSystem\TaskManagementSystem-DAL\obj\Debug\net8.0\TaskManagementSystem-DAL.csproj.CoreCompileInputs.cache
+C:\Users\99477\Desktop\TaskM\TaskManagementSystem\TaskManagementSystem-DAL\obj\Debug\net8.0\TaskMana.5E0F83CE.Up2Date
+C:\Users\99477\Desktop\TaskM\TaskManagementSystem\TaskManagementSystem-DAL\obj\Debug\net8.0\TaskManagementSystem-DAL.dll
+C:\Users\99477\Desktop\TaskM\TaskManagementSystem\TaskManagementSystem-DAL\obj\Debug\net8.0\refint\TaskManagementSystem-DAL.dll
+C:\Users\99477\Desktop\TaskM\TaskManagementSystem\TaskManagementSystem-DAL\obj\Debug\net8.0\TaskManagementSystem-DAL.pdb
+C:\Users\99477\Desktop\TaskM\TaskManagementSystem\TaskManagementSystem-DAL\obj\Debug\net8.0\TaskManagementSystem-DAL.genruntimeconfig.cache
+C:\Users\99477\Desktop\TaskM\TaskManagementSystem\TaskManagementSystem-DAL\obj\Debug\net8.0\ref\TaskManagementSystem-DAL.dll
